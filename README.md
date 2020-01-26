@@ -1,2 +1,2 @@
 # pat-basic
- now the projects ohly has main problems
+ now the projects only has main problems
